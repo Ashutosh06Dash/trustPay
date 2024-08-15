@@ -1,4 +1,4 @@
-##trustPAy
+#trustPAy
 
 This is a new Payment Gateway Application
 Users can CREATE an account in which a random balance is given to them.
