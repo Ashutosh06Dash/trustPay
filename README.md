@@ -1,4 +1,4 @@
-# trustPAy
+# trustPay
 
 - This is a Payment Gateway Application
 - Users can CREATE an account in which a random balance is given to them.
